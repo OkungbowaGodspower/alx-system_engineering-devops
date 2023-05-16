@@ -1,1 +1,1 @@
-This project is about shell permissions and their usage
+# This project is about shell permissions and their usage
